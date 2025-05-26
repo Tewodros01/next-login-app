@@ -19,7 +19,7 @@ const FundWithdrawalForm = () => {
   
   return (
     <div className="flex flex-col gap-4">
-      <form className=" grid grid-cols-4 gap-4">
+      <form className="grid grid-cols-4 gap-4">
         <div className="flex flex-col gap-2">
           <label htmlFor="bank" className="text-sm font-bold text-gray-500">
             Banck
