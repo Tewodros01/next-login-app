@@ -4,7 +4,7 @@ import FundWithdrawalForm from "@/components/FundForm";
 import { Check, Menu, User, X } from "lucide-react";
 import Link from "next/link";
 import { useState } from "react";
-import *as yup from "yup";
+
 
 const page = () => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
