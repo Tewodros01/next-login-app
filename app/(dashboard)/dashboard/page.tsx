@@ -116,14 +116,7 @@ const page = () => {
                   <p className="text-sm font-bold text-gray-500">Bank</p>
                 </div>
               </div>
-              <div className="flex gap-2">
-                <button className="bg-green-500 text-white px-4 py-2 rounded-md">
-                  Back
-                </button>
-                <button className="bg-green-500 text-white px-4 py-2 rounded-md">
-                  Next
-                </button>
-              </div>
+       
             </div>
           </div>
         </main>
